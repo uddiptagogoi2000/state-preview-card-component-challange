@@ -32,8 +32,8 @@ Above file is a screenshot of my solution.
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Live Site URL: [Add live site URL here](https://uddiptagogoi2000.github.io/state-preview-card-component-challange/)
+https://uddiptagogoi2000.github.io/state-preview-card-component-challange/
 ## My process
 
 ### Built with
