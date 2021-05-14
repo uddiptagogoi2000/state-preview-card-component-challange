@@ -1,0 +1,49 @@
+main {
+	height: auto;
+	margin: 4rem 1rem;
+}
+
+.container {
+	display: flex;
+	flex-direction: column-reverse;
+}
+
+.container .main-content {
+	text-align: center;
+	padding: 1.5rem;
+	margin: 1.5rem;
+}
+
+.main-heading {
+	font-size: 1.5rem;
+}
+
+.main-text {
+	font-size: 1.1rem;
+}
+
+.info > p {
+	font-size: 0.8rem;
+}
+
+.container .main-content .main-info {
+	flex-direction: column;
+}
+
+.container .main-content .main-info .info:nth-child(1),
+.container .main-content .main-info .info:nth-child(2) {
+	margin-bottom: 1.5rem;
+}
+
+/* Image */
+.container .main-img {
+	background: url("../images/image-header-mobile.jpg") no-repeat center center/cover;
+	flex-basis: 300px;
+}
+
+.container .main-img,
+.container .main-img::before {
+	border-radius: 0;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
